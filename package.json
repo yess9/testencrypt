@@ -1,0 +1,31 @@
+{
+  "name": "cordova-plugin-testencrypt",
+  "version": "0.0.1",
+  "description": "Test Encrypt",
+  "cordova": {
+    "id": "cordova-plugin-testencrypt",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yess9/testencrypt.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=7.1.0"
+    }
+  ],
+  "author": "Yessica Milagros Huillca Lloclle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yess9/testencrypt/issues"
+  },
+  "homepage": "https://github.com/yess9/testencrypt#readme"
+}
